@@ -280,7 +280,7 @@ Output:
 
 https://user-images.githubusercontent.com/54153457/207179728-2e1ae946-0971-4e57-aacb-837ac38e9338.mov
 
-#  Plotting a Heatmap of sold houses in New York with Latitude and longitude using Folium 
+#  Plotting a HeatMap of sold houses in New York with Latitude and longitude using Folium 
 
 Code: 
 
@@ -313,6 +313,9 @@ HeatMap(heat_data, radius=10).add_to(map_hooray)
 map_hooray 
 
 Output: <img width="1010" alt="final project 17" src="https://user-images.githubusercontent.com/54153457/207197822-6df817c9-d82c-46c2-a20e-ee60ef54a1cd.png">
+
+# Conclusion 
+-> By plotting a Heatmap of sold Houses in New York with their latitudes and longitudes, we can conclude that the majority of houses sold are in the New York City area.
 
 
 

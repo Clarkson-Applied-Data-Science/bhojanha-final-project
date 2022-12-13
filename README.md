@@ -314,8 +314,9 @@ map_hooray
 
 Output: <img width="1010" alt="final project 17" src="https://user-images.githubusercontent.com/54153457/207197822-6df817c9-d82c-46c2-a20e-ee60ef54a1cd.png">
 
-# Conclusion 
--> By plotting a Heatmap of sold Houses in New York with their latitudes and longitudes, we can conclude that the majority of houses sold are in the New York City area.
+# Conclusion
+
+# By plotting a Heatmap of sold Houses in New York with their latitudes and longitudes, we can conclude that the majority of houses sold are in the New York City area.
 
 
 
@@ -329,20 +330,26 @@ Output: <img width="1010" alt="final project 17" src="https://user-images.github
 2. Plotting of Average Per Capita Income and Average Price by Zipcodes using Area Chart
 ![h2](https://user-images.githubusercontent.com/54153457/207184438-083ab327-4ff7-4b43-b826-b3bb12bea729.jpeg)
 
+-> By plotting this graph, we can see that the average price is highest for zipcode : 10451
+
 
 
             
 3. Plotting average Pirce and Average Per Capita Income by State using Clustered Column Chart
 ![h3](https://user-images.githubusercontent.com/54153457/207184466-15b11ba4-1d71-4582-af7d-a8c83944fcf1.jpeg)
 
-
+-> This graph show us the average price and average per capita income for the states where average per capita income is almost the same across all the states and average price for a house is the highest in New York.  
 
 
 4. Plotting Average House Size and Average Price by State using Area Chart
 ![h4](https://user-images.githubusercontent.com/54153457/207184483-621ce85d-dd4a-4680-a8b3-91a9652c4690.jpeg)
 
-# Conclusion 
-1. 
+-> In this grpah, we can conclude that average house size is the highest in Vermont with a relatively low average price and Pennsylvania has the lowest average price but with a low average house size. Also New York has the highest average price and the lowest average house size.
+
+# Final Conclusion 
+
+-> Looking at different visualizations, we can conclude that New York has the most expensive houses compared to it's neighbouring states.
+
 
 
 

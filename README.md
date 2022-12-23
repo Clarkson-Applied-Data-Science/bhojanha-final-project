@@ -1,5 +1,5 @@
 # bhojanha_IA626-Project
-# Real Estate Analysis with Per Capita Income of New York and Neighbouring States
+# Real Estate Analysis with Per Capita Income of New York and Neighboring States
 # Reading CSV
 Code:
 

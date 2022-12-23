@@ -178,7 +178,7 @@ https://user-images.githubusercontent.com/54153457/207179439-7b7a3629-9e25-47b6-
 
 
 
-# Dropping all the unnecessary rows from the dataset
+# Dropping all the unnecessary columns from the dataset
 
 Code:
 
